@@ -1,2 +1,2 @@
-# M10-Grippenarbeit-Test
-M10-Grippenarbeit-Test für Mitcooden bei EInführungsvideos
+# M10-Gruppenarbeit-Test
+M10-Gruppenarbeit-Test für Mitcooden bei EInführungsvideos
